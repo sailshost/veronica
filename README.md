@@ -22,6 +22,6 @@ yarn add @sails/veronica
 
 You can also import individual Veronica modules directly from the @veronica/css package:
 ```css
-@import "@veronica/css/index.scss";
-@import "@veronica/css/business/index.scss";
+@import "@sails/veronica";
+@import "@sails/veronica/business";
 ```
